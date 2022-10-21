@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>quiz10 s1101670</title>
+  </head>
+  <body>
+    <p>Code Example:</p>
+	<pre>
+	<code>
+	  var person = {
+	    firstName:"Your first name",
+	    lastName:"Your last name",
+	    studentId:"Your student ID"
+	  }
+	</code>
+	</pre>
+  </body>
+</html>
